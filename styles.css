@@ -1,0 +1,116 @@
+.alarm {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+    margin: auto;
+    align-items: center;
+    padding: 40px;
+    background-image: url("https://jooinn.com/images1280_/photo-of-blue-sky.jpg");
+    color: white;
+    font-size: 28px;
+    width: 850px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.train {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+    margin: auto;
+    align-items: center;
+    padding: 40px;
+    background-image: url("http://www.mappery.com/maps/New-York-City-Subway-Map-2.gif");
+    font-size: 28px;
+    justify-content: center;
+    width: 850px;
+}
+
+.wallst {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+    margin: auto;
+    align-items: center;
+    padding: 40px;
+    background-image: url("https://c.pxhere.com/photos/d6/6b/coffee_background_coffee_beans_pause_caffeine_aroma_exciting_curve-907499.jpg!d");
+    color: white;
+    font-size: 28px;
+    width: 850px;
+}
+
+.treasure {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+    margin: auto;
+    align-items: center;
+    padding: 40px;
+    background-image: url("https://www.dexigner.com/images/article/26111/85_Broad_Street_01_gallery.jpg");
+    background-size: 100% 100%;
+    color: white;
+    font-size: 28px;
+    width: 850px;
+    height: 400px;
+}
+
+.onetrain {
+    display: flex;
+    
+}
+
+#fullpic, #hotpic, #sun, #squish {
+    margin: 0px 15px;
+    border: 1px solid black;
+}
+
+
+#traintext {
+    color: black;
+    background-color: white;
+    width: 400px;
+    margin-bottom: 30px;
+}
+
+.walltext {
+    color: black;
+    background-color: tan;
+    width: 400px;
+    margin-bottom: 30px;
+}
+
+#trainchoice {
+    display: flex;
+}
+
+#full, #hot {
+    margin: 0px 50px;
+    color: black;
+    background-color: white;
+    font-size: 28px;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+.bfastpic {
+    width: 150px;
+    height: 150px;
+    margin: 0px 10px;
+    border: 10px groove tan;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Kirang Haerang', cursive;
+}
+
+button {
+    font-size: 25px;
+}
